@@ -1,2 +1,2 @@
 # gltf
-gltf models for building tatooie
+gltf models for building tatooine
