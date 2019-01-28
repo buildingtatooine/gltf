@@ -70,9 +70,9 @@
     "extensions" : {},
     "images" : [
         {
-            "mimeType" : "image/png",
-            "name" : "building_uv.png",
-            "uri" : "building_uv.png"
+            "mimeType" : "image/jpg",
+            "name" : "building_uv.jpg",
+            "uri" : "building_uv.jpg"
         }
     ],
     "materials" : [
